@@ -5,7 +5,7 @@ Sign Up:
 ![WhatsApp Image 2024-03-25 at 13 27 10_154c7a81](https://github.com/Ashwari/Pine-Plan/assets/93824879/d1dcf021-d1d8-4418-9c52-7b744bcbe91b)
 
 Login:
-![image](https://github.com/Ashwari/Pine-Plan/assets/93824879/0e800281-80f1-4ad3-a0e2-a02ef9d3d0b7)
+![WhatsApp Image 2024-03-25 at 14 24 52_097ded5f](https://github.com/Ashwari/Pine-Plan/assets/93824879/d4a982fd-7f88-4193-9977-9fffc135e2f0)
 
 Task Categories:
 ![WhatsApp Image 2024-03-25 at 13 27 10_72886957](https://github.com/Ashwari/Pine-Plan/assets/93824879/5a915618-30c4-4d51-a3fe-18c8c72bdc9d)
